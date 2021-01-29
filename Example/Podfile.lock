@@ -165,17 +165,17 @@ PODS:
     - BoringSSL-GRPC/Interface (= 0.0.3)
   - BoringSSL-GRPC/Interface (0.0.3)
   - CombineFirebase/Auth (0.2.2):
-    - CombineFirebaseAuthentication (~> 0.2)
+    - CombineFirebaseAuthentication (~> 0.2.7)
   - CombineFirebase/Database (0.2.2):
-    - CombineFirebaseDatabase (~> 0.2)
+    - CombineFirebaseDatabase (~> 0.2.7)
   - CombineFirebase/Firestore (0.2.2):
-    - CombineFirebaseFirestore (~> 0.2)
+    - CombineFirebaseFirestore (~> 0.2.7)
   - CombineFirebase/Functions (0.2.2):
-    - CombineFirebaseFunctions (~> 0.2)
+    - CombineFirebaseFunctions (~> 0.2.7)
   - CombineFirebase/RemoteConfig (0.2.2):
-    - CombineFirebaseRemoteConfig (~> 0.2)
+    - CombineFirebaseRemoteConfig (~> 0.2.7)
   - CombineFirebase/Storage (0.2.2):
-    - CombineFirebaseStorage (~> 0.2)
+    - CombineFirebaseStorage (~> 0.2.7)
   - CombineFirebaseAuthentication (0.2.2):
     - Firebase/Auth
     - Firebase/Core

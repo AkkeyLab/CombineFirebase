@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
     s.name             = 'CombineFirebaseStorage'
-    s.version          = '0.2.4'
+    s.version          = '0.2.7'
     s.summary          = 'Combine extensions for Firebase Storage.'
     
     # This description is used to generate tags and improve search results.
